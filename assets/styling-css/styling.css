@@ -133,9 +133,9 @@ nav .right-one a{
     padding-left: 5px;
 }
 
-.blog-form form label {
-    font-size: 20px;
-    font-weight: 400;
+.form-container .technologies {
+    display: flex;
+    text-align: left;
 }
 
 .blog-form form input, textarea, select {
